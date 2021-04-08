@@ -15,3 +15,4 @@ Aplikacje serwera i klienta symulujące bankomat. Do komunikacji między aplikac
 
 ### Zrzuty ekranu z działania aplikacji klienta:
 // dac zrzuty //
+![](./Symulacja.jpg?raw=true "Symulacja")
