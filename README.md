@@ -14,5 +14,7 @@ Aplikacje serwera i klienta symulujące bankomat. Do komunikacji między aplikac
 - ? sprawdzić całą funkcjonalność programów?
 
 ### Zrzuty ekranu z działania aplikacji klienta:
-// dac zrzuty //
-![](./Symulacja.jpg?raw=true "Symulacja")
+![](./Klient.jpg?raw=true "Praca klienta")
+
+### Plik loga:
+![](./Log.jpg?raw=true "Praca klienta")
